@@ -1,4 +1,4 @@
-<h1>A Mail Delivery System</h1>
+<h1>Mail Delivery System</h1>
 
 <img src="image/screen1.png" width="400" >
 <img src="image/screen2.png" width="400" >
