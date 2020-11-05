@@ -1,26 +1,25 @@
 # Mail Delivery System
 
 ### Introduction<br>
-This game is for android phones. It constructed with 2D platform.<br>
-The player have to collect coins while avoiding the enemies.<br>
-In each game you get a coins, and with this coins you get buy different pilot figures.<br>
-So have fun :) <br>
+This application is for a management package delivery system. <br>
+It divided into 3 parts: <br>
+1. Client side- the client request to pick up packages according to a specific branch and get line number when he arrives at the branch. <br>
+2. Employee side- the employee gets line numbers and according to the numbers he can automatically see all the packages of the client. <br>
+then he gives him the packages. <br>
+3. Report- the employee can get statistical information on the packages. <br>
 
-### Features
+### Database 
 
-- Full GAME
-- SCORE BOARD
-- SHOP
-- Instruction
+SQLite
 
 ### Technology 
 JAVA , Swing
 
 ### GIT
-https://github.com/Kobidl/flying-pilot/
+https://github.com/nuriel99/Mail_Delivery_System
 
 ### Youtube
-https://youtu.be/PNwbo7Jlj-w
+https://youtu.be/3h-NdD8jQq0
 
 <br>
 <img src="image/screen1.png" width="400" >
